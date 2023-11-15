@@ -14,8 +14,8 @@ Analysis Of Credit Data in Data Science.
 
 # Program And Output:
 ```
-Developed By : Shree Ram R
-reference number: 212222040154
+Developed By : LAKSHMIRPIYA D
+reference number: 212222040085
 ```
 
 # Importing necessary packages:
